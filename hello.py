@@ -1,3 +1,3 @@
-# First Repository
+# FirstRepository
 
 Hello World
